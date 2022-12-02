@@ -43,7 +43,7 @@ public class Tank {
         if (direction == 4) direction = 0;
     }
     public void printPosition(){
-        System.out.println("TheTank is at " + positionX+ ", " +positionY+ " now.");
+        System.out.println("TheTankisat " + positionX+ ", " +positionY+ " now.");
     }
 
 }
